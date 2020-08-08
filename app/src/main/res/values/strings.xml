@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTallerQBO</string>
+    <string name="valtitulojava">CALCULADORA IMC - JAVA</string>
+    <string name="valetpeso">Ingrese su peso en kg.</string>
+    <string name="valtalla">Ingrese su talla en cm.</string>
+    <string name="valbtncalcularimc">CALCULAR</string>
+    <string name="valtvtitulokotlin">CALCULO DE IMC - KOTLIN</string>
+</resources>
